@@ -1,6 +1,6 @@
 # RPythonG
 
-![imagem do anao](https://drive.google.com/file/d/1473WdXqxneukh3PxCwRc8iANPNYBL2Cy/view?usp=sharing)
+![imagem do anao](https://c.tenor.com/F5wkm6-PxI4AAAAC/tenor.gif)
 
 ## Autor
 
