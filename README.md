@@ -1,5 +1,7 @@
 # RPythonG
 
+![imagem do anao](https://drive.google.com/file/d/1473WdXqxneukh3PxCwRc8iANPNYBL2Cy/view?usp=sharing)
+
 ## Autor
 
 - [@guilherme-alves4212](www.linkedin.com/in/guilherme-alves-00695b229)
