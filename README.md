@@ -14,6 +14,8 @@ Antes de mais nada, gostaria de agradecer ao @programadorpython (https://www.you
 
 É simples, basta rodar e o calculo acontece. A ideia é chegar com o herói no nivel 50, porém, como o jogo é completamente baseado em RNG, não é sempre que isso acontece, e, quando não acontece, temos uma derrota.
 
+Collab: https://colab.research.google.com/drive/1aCg1uHeymGLIRA2GVbWMZxcZOb_WYu6d?usp=sharing
+
 ### Classes
 
 #### Guerreiro
