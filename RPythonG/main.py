@@ -14,7 +14,7 @@ def classe():
             "hpMax": 200,
             "dano_base": 8,  # Base do dano como 1d8
             "chance_critico": 0.1,
-            "dano_critico": 2,
+            "dano_critico": 1,
             "força": 10,
         }
     elif escolha == "ladino":
@@ -23,12 +23,12 @@ def classe():
             "level": 1,
             "exp": 0,
             "expMax": 50,
-            "hp": 150,
-            "hpMax": 150,
+            "hp": 140,
+            "hpMax": 140,
             "dano_base": 8,  # Base do dano como 1d8
             "chance_critico": 0.3,
-            "dano_critico": 2,
-            "força": 7,
+            "dano_critico": 1.5,
+            "força": 10,
         }
     else:
         print("Classe inválida! Tente novamente.")
@@ -44,8 +44,8 @@ def criar_npc(level):
         "dano_base": 8,
         "chance_critico": 0.1,
         "dano_critico": 1.7,
-        "hp": 100 + (25 * level),
-        "hpMax": 100 + (25 * level),
+        "hp": 100 + (28 * level),
+        "hpMax": 100 + (28 * level),
         "exp": 10 + (2 * level)
     }
 

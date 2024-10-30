@@ -1,7 +1,7 @@
 
-## Autores
+## Autor
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@guilherme-alves4212](www.linkedin.com/in/guilherme-alves-00695b229)
 
 
 ## Aprendizados
